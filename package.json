@@ -1,0 +1,29 @@
+{
+  "name": "ne1",
+  "version": "1.0.0",
+  "description": "Simple neural net for research purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-beall/NE1.git"
+  },
+  "keywords": [
+    "AI",
+    "Neural",
+    "Net",
+    "Learning"
+  ],
+  "author": "Robert J Beall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-beall/NE1/issues"
+  },
+  "homepage": "https://github.com/robert-beall/NE1#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.4.0",
+    "@tensorflow/tfjs-node": "^4.4.0"
+  }
+}
